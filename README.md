@@ -75,6 +75,7 @@ Add functionality to auto-fetch user details using their Aadhaar number via a se
 ✅ Improves accuracy
 ✅ Enhances real-world usability
 
+![image](https://github.com/user-attachments/assets/d1150058-5a9b-4eb5-a7cc-7e0b512b655b)
 
 
 
