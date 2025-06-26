@@ -1,0 +1,31 @@
+BankName,LoanType,MinSalary,MaxLoanAmount,InterestRate,LoanTerm
+HDFC Bank,Home Loan,40000,3000000,7.5,20
+HDFC Bank,Personal Loan,25000,500000,12.5,5
+HDFC Bank,Car Loan,30000,800000,9.2,7
+HDFC Bank,Education Loan,20000,1500000,8.5,10
+HDFC Bank,Business Loan,50000,2500000,11.0,7
+HDFC Bank,Gold Loan,15000,200000,10.0,3
+ICICI Bank,Home Loan,42000,3200000,7.4,20
+ICICI Bank,Personal Loan,26000,550000,12.2,5
+ICICI Bank,Car Loan,28000,750000,9.0,7
+ICICI Bank,Education Loan,18000,1400000,8.3,10
+ICICI Bank,Business Loan,52000,2400000,11.2,6
+ICICI Bank,Gold Loan,16000,210000,9.8,2
+Axis Bank,Home Loan,45000,3400000,7.3,20
+Axis Bank,Personal Loan,27000,600000,12.7,5
+Axis Bank,Car Loan,30000,850000,9.5,7
+Axis Bank,Education Loan,19000,1300000,8.6,10
+Axis Bank,Business Loan,55000,2600000,11.5,6
+Axis Bank,Agriculture Loan,20000,500000,7.0,7
+State Bank of India,Home Loan,39000,3100000,7.0,20
+State Bank of India,Personal Loan,24000,480000,11.8,5
+State Bank of India,Car Loan,27000,700000,9.3,7
+State Bank of India,Education Loan,17000,1600000,8.1,10
+State Bank of India,Business Loan,51000,2300000,10.8,6
+State Bank of India,Agriculture Loan,18000,450000,6.5,7
+Punjab National Bank,Home Loan,41000,2900000,7.6,20
+Punjab National Bank,Personal Loan,26000,500000,12.0,5
+Punjab National Bank,Car Loan,29000,780000,9.1,7
+Punjab National Bank,Education Loan,20000,1400000,8.4,10
+Punjab National Bank,Business Loan,50000,2200000,10.9,6
+Punjab National Bank,Gold Loan,15000,180000,9.9,2
