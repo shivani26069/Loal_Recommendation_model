@@ -55,6 +55,7 @@ Check eligibility using the trained model.
 If eligible, recommend the best loan offer from banks_loan_offers.csv.
 
 🚀 Future Enhancements
+
 🔐 User Login System
 Implement a secure login and registration system so users can create accounts and log in to view their loan application history.
 
